@@ -1,0 +1,6 @@
+Write your original stimuli story here.
+
+- Paste the full story text as plain text (one clause or sentence per line, or space-separated).
+- This is the text that participants listened to / viewed before retelling.
+- Segmentation is based on whitespace-separated word counts, so any consistent format works.
+- Supports Korean or any of the 100+ languages covered by LaBSE.

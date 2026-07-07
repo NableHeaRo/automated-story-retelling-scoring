@@ -1,0 +1,4 @@
+Write your participant's recall transcript here.
+
+- This should be the (manually corrected) transcript of a single participant's story retelling.
+- Plain text, same format as the story file.
