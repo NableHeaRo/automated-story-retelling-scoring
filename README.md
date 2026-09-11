@@ -3,8 +3,7 @@
 Automated scoring of story-retelling (narrative discourse) performance using
 sentence-embedding semantic similarity, as described in:
 
-> Yoo, Y. R., Lim, Y., & Sung, J. E. (2026). Automated scoring of story
-> retelling performance in people with aphasia using large language models.
+> Yoo, Y. R., Lim, Y., & Sung, J. E. (2026). Automated Scoring of Semantic Recall and Temporal Organization in Aphasic Story Retelling Using Language Model Embeddings
 > *American Journal of Speech-Language Pathology*. [add DOI/volume once available]
 
 Given (1) the original story text and (2) a person's retelling transcript,
@@ -131,7 +130,7 @@ If you use this code, please cite all of the following:
 
 ```bibtex
 @article{yoo2026autosr,
-  title   = {Automated scoring of story retelling performance in people with aphasia using large language models},
+  title   = {Automated Scoring of Semantic Recall and Temporal Organization in Aphasic Story Retelling Using Language Model Embeddings},
   author  = {Yoo, Yae Rin and Lim, Yoonseob and Sung, Jee Eun},
   journal = {American Journal of Speech-Language Pathology},
   year    = {2026}
